@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20191101-20191114</PERIOD>
+ <STATION>
+ <MEAN_OBS>   1.14505839     </MEAN_OBS>
+ <STDV_OBS>   1.65093470     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         597 </NUM>
+ <MEAN>  0.962578297     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   1.98478341     </BIAS>
+ <RMSE>  0.413935483     </RMSE>
+ <CORR>   4.72438013E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         597 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.75572515     </BIAS>
+ <RMSE>  0.487349033     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.908441722     </MEAN_OBS>
+ <STDV_OBS>   1.65257442     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>  0.822884798     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   1.53609622     </BIAS>
+ <RMSE>  0.579621673     </RMSE>
+ <CORR>   4.72436685E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42955506     </BIAS>
+ <RMSE>  0.634356380     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.937338471     </MEAN_OBS>
+ <STDV_OBS>   1.61044371     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>  0.994745553     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   2.16496539     </BIAS>
+ <RMSE>  0.379413754     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         616 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.15532804     </BIAS>
+ <RMSE>  0.314801067     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17009985     </MEAN_OBS>
+ <STDV_OBS>   1.78918004     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>  0.999666691     </MEAN>
+ <STDV>   4.87044920E+26 </STDV>
+ <BIAS>   1.81012857     </BIAS>
+ <RMSE>  0.557977974     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85021639     </BIAS>
+ <RMSE>  0.534453511     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>

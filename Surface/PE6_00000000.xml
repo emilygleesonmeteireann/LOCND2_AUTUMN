@@ -1,0 +1,3632 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>6h Precipitation</VAR>
+<UNIT>mm/6h</UNIT>
+<PERIOD>20191101-20191114</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.942857146     </MEAN_OBS>
+ <STDV_OBS>   2.20690536     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.977346122     </MEAN>
+ <STDV>   4.72022221E+09 </STDV>
+ <BIAS>   1.22001755     </BIAS>
+ <RMSE>  0.828921676     </RMSE>
+ <CORR>   4.72438013E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   7.46471692E-42 </STDV>
+ <BIAS>   1.84983456     </BIAS>
+ <RMSE>  0.623046637     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.461111128     </MEAN_OBS>
+ <STDV_OBS>   1.73038554     </STDV_OBS>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.666031778     </MEAN>
+ <STDV>   4.72435467E+26 </STDV>
+ <BIAS>   1.37522113     </BIAS>
+ <RMSE>  0.555541933     </RMSE>
+ <CORR>  -14779534.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53635991     </BIAS>
+ <RMSE>  0.523361385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.739285707     </MEAN_OBS>
+ <STDV_OBS>   2.38133264     </STDV_OBS>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.05094481     </MEAN>
+ <STDV>   4.72438013E+26 </STDV>
+ <BIAS>   1.44481599     </BIAS>
+ <RMSE>  0.458908141     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44753695     </BIAS>
+ <RMSE>  0.216271400     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.510714412     </MEAN_OBS>
+ <STDV_OBS>   1.60784018     </STDV_OBS>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.824528754     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   1.30239201     </BIAS>
+ <RMSE>  0.596745849     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23489261     </BIAS>
+ <RMSE>  0.639570177     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.439285785     </MEAN_OBS>
+ <STDV_OBS>   1.39765596     </STDV_OBS>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.472805053     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.31776977     </BIAS>
+ <RMSE>  0.115220174     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58094871     </BIAS>
+ <RMSE>  0.114895351     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.900000095     </MEAN_OBS>
+ <STDV_OBS>   1.87997663     </STDV_OBS>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.965611279     </MEAN>
+ <STDV>  -15437443.0     </STDV>
+ <BIAS>   2.04119039     </BIAS>
+ <RMSE>  0.354318142     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.14988685     </BIAS>
+ <RMSE>  0.290544212     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.633928657     </MEAN_OBS>
+ <STDV_OBS>   1.84377706     </STDV_OBS>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.726364493     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>  0.955601931     </BIAS>
+ <RMSE>  0.784561634     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31718600     </BIAS>
+ <RMSE>  0.703921854     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.926785529     </MEAN_OBS>
+ <STDV_OBS>   2.90922117     </STDV_OBS>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.54278839     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   2.12319660     </BIAS>
+ <RMSE>  0.636546969     </RMSE>
+ <CORR>   4.72435467E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.35559607     </BIAS>
+ <RMSE>  0.581844985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.976785719     </MEAN_OBS>
+ <STDV_OBS>   2.44890928     </STDV_OBS>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.46170354     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   1.51127613     </BIAS>
+ <RMSE>  0.712170303     </RMSE>
+ <CORR>   4.72438013E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87301779     </BIAS>
+ <RMSE>  0.667336106     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.935714006     </MEAN_OBS>
+ <STDV_OBS>   2.19653559     </STDV_OBS>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.21073389     </MEAN>
+ <STDV>   4.72438013E+26 </STDV>
+ <BIAS>   1.63266218     </BIAS>
+ <RMSE>  0.624259293     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.68420386     </BIAS>
+ <RMSE>  0.639011502     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.887499928     </MEAN_OBS>
+ <STDV_OBS>   2.41420579     </STDV_OBS>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.12870681     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   1.54814351     </BIAS>
+ <RMSE>  0.648739457     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72454405     </BIAS>
+ <RMSE>  0.700525284     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.21428549     </MEAN_OBS>
+ <STDV_OBS>   2.99955440     </STDV_OBS>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.27912652     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   2.38537788     </BIAS>
+ <RMSE>  0.521140397     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57215881     </BIAS>
+ <RMSE>  0.512697875     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.07499957     </MEAN_OBS>
+ <STDV_OBS>   2.85695577     </STDV_OBS>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.82197511     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   2.14548826     </BIAS>
+ <RMSE>  0.707976937     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.21646857     </BIAS>
+ <RMSE>  0.708900213     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.28571403     </MEAN_OBS>
+ <STDV_OBS>   2.89349198     </STDV_OBS>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.70760179     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.43685627     </BIAS>
+ <RMSE>  0.782688379     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.16144323     </BIAS>
+ <RMSE>  0.661902189     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.79999959     </MEAN_OBS>
+ <STDV_OBS>   2.78374600     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   1.67072392     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   2.29982996     </BIAS>
+ <RMSE>  0.695572436     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         104 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.32293940     </BIAS>
+ <RMSE>  0.666125953     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14821422     </MEAN_OBS>
+ <STDV_OBS>   1.93081474     </STDV_OBS>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.941390514     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   1.56917262     </BIAS>
+ <RMSE>  0.753532290     </RMSE>
+ <CORR>   4.72438013E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85477948     </BIAS>
+ <RMSE>  0.648608744     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31071436     </MEAN_OBS>
+ <STDV_OBS>   2.91137266     </STDV_OBS>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.22748339     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   3.16916251     </BIAS>
+ <RMSE>  0.566286206     </RMSE>
+ <CORR>  -14779534.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.69354081     </BIAS>
+ <RMSE>  0.599322021     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.08928585     </MEAN_OBS>
+ <STDV_OBS>   2.15208220     </STDV_OBS>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.03698421     </MEAN>
+ <STDV>   4.72438013E+26 </STDV>
+ <BIAS>   1.84481514     </BIAS>
+ <RMSE>  0.644339025     </RMSE>
+ <CORR>  -14779565.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88238466     </BIAS>
+ <RMSE>  0.615031958     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.54821444     </MEAN_OBS>
+ <STDV_OBS>   2.69173098     </STDV_OBS>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.31489432     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   1.84167528     </BIAS>
+ <RMSE>  0.828433812     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56167233     </BIAS>
+ <RMSE>  0.880628288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.907407403     </MEAN_OBS>
+ <STDV_OBS>   1.49000883     </STDV_OBS>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>  0.850509346     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   1.09039402     </BIAS>
+ <RMSE>  0.802744687     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10101867     </BIAS>
+ <RMSE>  0.770808876     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.867857218     </MEAN_OBS>
+ <STDV_OBS>   1.80665910     </STDV_OBS>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.803656399     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.40310490     </BIAS>
+ <RMSE>  0.837717772     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10977721     </BIAS>
+ <RMSE>  0.812773943     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.01071393     </MEAN_OBS>
+ <STDV_OBS>   2.53622413     </STDV_OBS>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.21218944     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   1.23622644     </BIAS>
+ <RMSE>  0.869969845     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.39313900     </BIAS>
+ <RMSE>  0.835995555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.49999988     </MEAN_OBS>
+ <STDV_OBS>   2.55506754     </STDV_OBS>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.15031898     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   2.02484679     </BIAS>
+ <RMSE>  0.744298995     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.03966093     </BIAS>
+ <RMSE>  0.745519876     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.760714233     </MEAN_OBS>
+ <STDV_OBS>   1.34732509     </STDV_OBS>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.786336839     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   1.39173877     </BIAS>
+ <RMSE>  0.598303378     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38628173     </BIAS>
+ <RMSE>  0.600229681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46250010     </MEAN_OBS>
+ <STDV_OBS>   2.45367789     </STDV_OBS>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.46841645     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   1.89340019     </BIAS>
+ <RMSE>  0.672372341     </RMSE>
+ <CORR>   4.72438013E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.04229498     </BIAS>
+ <RMSE>  0.642954409     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.23090899     </MEAN_OBS>
+ <STDV_OBS>   2.20296359     </STDV_OBS>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   1.34359002     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   1.47274470     </BIAS>
+ <RMSE>  0.777568519     </RMSE>
+ <CORR>  -14779534.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62471771     </BIAS>
+ <RMSE>  0.721820295     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.01964283     </MEAN_OBS>
+ <STDV_OBS>   2.24666429     </STDV_OBS>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.29313362     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.49117315     </BIAS>
+ <RMSE>  0.759897649     </RMSE>
+ <CORR>  -14779565.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63337898     </BIAS>
+ <RMSE>  0.704971313     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.60892820     </MEAN_OBS>
+ <STDV_OBS>   2.66613650     </STDV_OBS>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.52182627     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   1.86161447     </BIAS>
+ <RMSE>  0.780891538     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76256502     </BIAS>
+ <RMSE>  0.804018438     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46071446     </MEAN_OBS>
+ <STDV_OBS>   3.39837933     </STDV_OBS>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.69330764     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   1.69194746     </BIAS>
+ <RMSE>  0.767324865     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44766593     </BIAS>
+ <RMSE>  0.690450251     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.28035724     </MEAN_OBS>
+ <STDV_OBS>   2.31201816     </STDV_OBS>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.12052298     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   2.38102889     </BIAS>
+ <RMSE>  0.640585721     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25337195     </BIAS>
+ <RMSE>  0.688925385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.53035688     </MEAN_OBS>
+ <STDV_OBS>   2.74825263     </STDV_OBS>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.40755224     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   2.11848044     </BIAS>
+ <RMSE>  0.790497422     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.14757204     </BIAS>
+ <RMSE>  0.770478368     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26964283     </MEAN_OBS>
+ <STDV_OBS>   2.39574170     </STDV_OBS>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.15550995     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   2.12645078     </BIAS>
+ <RMSE>  0.710459352     </RMSE>
+ <CORR>   4.72435652E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93946970     </BIAS>
+ <RMSE>  0.765445471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.701785862     </MEAN_OBS>
+ <STDV_OBS>   1.88911223     </STDV_OBS>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.822062552     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   1.41409159     </BIAS>
+ <RMSE>  0.697097600     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41920781     </BIAS>
+ <RMSE>  0.725679815     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.828571379     </MEAN_OBS>
+ <STDV_OBS>   1.78080571     </STDV_OBS>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.04867804     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.50182784     </BIAS>
+ <RMSE>  0.600680292     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44601727     </BIAS>
+ <RMSE>  0.647697031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.38392842     </MEAN_OBS>
+ <STDV_OBS>   1.91106832     </STDV_OBS>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.07195759     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   2.44532871     </BIAS>
+ <RMSE>  0.695782602     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.38971758     </BIAS>
+ <RMSE>  0.716910899     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.03214288     </MEAN_OBS>
+ <STDV_OBS>   1.71117783     </STDV_OBS>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.11199927     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   1.82309675     </BIAS>
+ <RMSE>  0.498798549     </RMSE>
+ <CORR>  -14779534.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66418016     </BIAS>
+ <RMSE>  0.586606264     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.27321398     </MEAN_OBS>
+ <STDV_OBS>   1.56990600     </STDV_OBS>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.16282141     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   1.63592684     </BIAS>
+ <RMSE>  0.667495906     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.42746592     </BIAS>
+ <RMSE>  0.740608931     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.54642844     </MEAN_OBS>
+ <STDV_OBS>   2.23173189     </STDV_OBS>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.41288006     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   2.11739659     </BIAS>
+ <RMSE>  0.553325891     </RMSE>
+ <CORR>   4.72298703E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.33231902     </BIAS>
+ <RMSE>  0.517776668     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.866666734     </MEAN_OBS>
+ <STDV_OBS>   1.73202300     </STDV_OBS>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   1.01867020     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   1.46828949     </BIAS>
+ <RMSE>  0.629384875     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29157901     </BIAS>
+ <RMSE>  0.665369570     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.423636436     </MEAN_OBS>
+ <STDV_OBS>   1.01847553     </STDV_OBS>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.701278806     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>  0.978506446     </BIAS>
+ <RMSE>  0.600815058     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.910987854     </BIAS>
+ <RMSE>  0.538081050     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.816071332     </MEAN_OBS>
+ <STDV_OBS>   1.26051188     </STDV_OBS>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.814105332     </MEAN>
+ <STDV>  -14779725.0     </STDV>
+ <BIAS>   1.20980954     </BIAS>
+ <RMSE>  0.608348131     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17867362     </BIAS>
+ <RMSE>  0.640817761     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.812500000     </MEAN_OBS>
+ <STDV_OBS>   1.90194881     </STDV_OBS>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   1.34866440     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   1.50266123     </BIAS>
+ <RMSE>  0.538547635     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3266 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06072772     </BIAS>
+ <RMSE>  0.827899516     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.814285696     </MEAN_OBS>
+ <STDV_OBS>   2.01118469     </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.896544337     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.31514466     </BIAS>
+ <RMSE>  0.762837648     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41369176     </BIAS>
+ <RMSE>  0.744606137     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.979629636     </MEAN_OBS>
+ <STDV_OBS>   3.02013516     </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   1.85824955     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   2.41550660     </BIAS>
+ <RMSE>  0.468655825     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57315803     </BIAS>
+ <RMSE>  0.548464000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.16249990     </MEAN_OBS>
+ <STDV_OBS>   2.07033467     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.16305947     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   2.15900993     </BIAS>
+ <RMSE>  0.598886549     </RMSE>
+ <CORR>  -14779534.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88708973     </BIAS>
+ <RMSE>  0.690493822     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31926584     </MEAN_OBS>
+ <STDV_OBS>   2.10139680     </STDV_OBS>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         109 </NUM>
+ <MEAN>   1.29552913     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   2.78482151     </BIAS>
+ <RMSE>  0.362221807     </RMSE>
+ <CORR>  -15437443.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         109 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76150084     </BIAS>
+ <RMSE>  0.339171946     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.22142828     </MEAN_OBS>
+ <STDV_OBS>   2.00056553     </STDV_OBS>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.20450187     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   2.38482761     </BIAS>
+ <RMSE>  0.479976922     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.10628319     </BIAS>
+ <RMSE>  0.599096894     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.83571410     </MEAN_OBS>
+ <STDV_OBS>   3.50837827     </STDV_OBS>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.54876399     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   3.02489614     </BIAS>
+ <RMSE>  0.720911145     </RMSE>
+ <CORR>   4.72298703E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.80311251     </BIAS>
+ <RMSE>  0.765827835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09107149     </MEAN_OBS>
+ <STDV_OBS>   2.32350397     </STDV_OBS>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.30421329     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   1.48195457     </BIAS>
+ <RMSE>  0.720575988     </RMSE>
+ <CORR>  -14779565.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62721264     </BIAS>
+ <RMSE>  0.712635219     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14107132     </MEAN_OBS>
+ <STDV_OBS>   2.48690915     </STDV_OBS>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.15049624     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>   1.40750182     </BIAS>
+ <RMSE>  0.820360065     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55980492     </BIAS>
+ <RMSE>  0.791218460     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14464283     </MEAN_OBS>
+ <STDV_OBS>   2.22974753     </STDV_OBS>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.06550801     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   2.15793300     </BIAS>
+ <RMSE>  0.619260192     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.99833894     </BIAS>
+ <RMSE>  0.666303277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15740740     </MEAN_OBS>
+ <STDV_OBS>   2.32418847     </STDV_OBS>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   1.40556049     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   1.84041452     </BIAS>
+ <RMSE>  0.645091951     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93753958     </BIAS>
+ <RMSE>  0.631362736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86249995     </MEAN_OBS>
+ <STDV_OBS>   3.52294183     </STDV_OBS>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.08809257     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   2.91190195     </BIAS>
+ <RMSE>  0.648826718     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.79682565     </BIAS>
+ <RMSE>  0.669859588     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59107161     </MEAN_OBS>
+ <STDV_OBS>   2.95665479     </STDV_OBS>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.51187479     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.48924828     </BIAS>
+ <RMSE>  0.869806409     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53388727     </BIAS>
+ <RMSE>  0.867599130     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88749993     </MEAN_OBS>
+ <STDV_OBS>   4.55872011     </STDV_OBS>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.84580910     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   1.35444677     </BIAS>
+ <RMSE>  0.949571669     </RMSE>
+ <CORR>  -14779534.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50756860     </BIAS>
+ <RMSE>  0.943225622     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59999990     </MEAN_OBS>
+ <STDV_OBS>   2.82910252     </STDV_OBS>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.33296275     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   2.07391739     </BIAS>
+ <RMSE>  0.756117880     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82849514     </BIAS>
+ <RMSE>  0.815044463     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.95357132     </MEAN_OBS>
+ <STDV_OBS>   3.66283941     </STDV_OBS>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.66923463     </MEAN>
+ <STDV>  -14779534.0     </STDV>
+ <BIAS>   2.86750817     </BIAS>
+ <RMSE>  0.776277244     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82172334     </BIAS>
+ <RMSE>  0.885346472     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.48571432     </MEAN_OBS>
+ <STDV_OBS>   3.89353800     </STDV_OBS>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.76346982     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   1.94324791     </BIAS>
+ <RMSE>  0.821180284     </RMSE>
+ <CORR>   4.72298703E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.42011857     </BIAS>
+ <RMSE>  0.786008835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.35178578     </MEAN_OBS>
+ <STDV_OBS>   3.59641099     </STDV_OBS>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.54601395     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   1.90859389     </BIAS>
+ <RMSE>  0.825289309     </RMSE>
+ <CORR>  -14779565.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.44759059     </BIAS>
+ <RMSE>  0.748555422     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.45357144     </MEAN_OBS>
+ <STDV_OBS>   3.29967976     </STDV_OBS>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.50048518     </MEAN>
+ <STDV>   4.34227427E+26 </STDV>
+ <BIAS>   2.81047869     </BIAS>
+ <RMSE>  0.658564270     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.56264234     </BIAS>
+ <RMSE>  0.708727658     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.57500005     </MEAN_OBS>
+ <STDV_OBS>   2.98887324     </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.56069303     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   2.15074420     </BIAS>
+ <RMSE>  0.806713104     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97179115     </BIAS>
+ <RMSE>  0.834290087     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46249998     </MEAN_OBS>
+ <STDV_OBS>   2.89269328     </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.36652887     </MEAN>
+ <STDV>   4.72407760E+26 </STDV>
+ <BIAS>   2.76477623     </BIAS>
+ <RMSE>  0.552975476     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.40897703     </BIAS>
+ <RMSE>  0.664378405     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13035727     </MEAN_OBS>
+ <STDV_OBS>   2.40700078     </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.27087271     </MEAN>
+ <STDV>  -15437475.0     </STDV>
+ <BIAS>   1.77865946     </BIAS>
+ <RMSE>  0.721715748     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.59162617     </BIAS>
+ <RMSE>  0.764520288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.53392863     </MEAN_OBS>
+ <STDV_OBS>   3.36137891     </STDV_OBS>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.97396672     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   4.32080889     </BIAS>
+ <RMSE>  0.441346586     </RMSE>
+ <CORR>  -14779298.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.46631861     </BIAS>
+ <RMSE>  0.437814355     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11785698     </MEAN_OBS>
+ <STDV_OBS>   1.93770576     </STDV_OBS>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.38866448     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   2.96591401     </BIAS>
+ <RMSE>  0.504997194     </RMSE>
+ <CORR>  -14779725.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76328349     </BIAS>
+ <RMSE>  0.558356702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.58392835     </MEAN_OBS>
+ <STDV_OBS>   2.90457821     </STDV_OBS>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.14291692     </MEAN>
+ <STDV>  -14779298.0     </STDV>
+ <BIAS>   2.90408087     </BIAS>
+ <RMSE>  0.552385628     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99379039     </BIAS>
+ <RMSE>  0.505316913     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.971428514     </MEAN_OBS>
+ <STDV_OBS>   2.43917108     </STDV_OBS>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.45220518     </MEAN>
+ <STDV>  -14779725.0     </STDV>
+ <BIAS>   1.90096939     </BIAS>
+ <RMSE>  0.623632252     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.95670617     </BIAS>
+ <RMSE>  0.597422540     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14285719     </MEAN_OBS>
+ <STDV_OBS>   2.49166107     </STDV_OBS>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.20642257     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   1.58843291     </BIAS>
+ <RMSE>  0.808644474     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87697911     </BIAS>
+ <RMSE>  0.714180887     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.953571439     </MEAN_OBS>
+ <STDV_OBS>   2.36990714     </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.20179832     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.98261762     </BIAS>
+ <RMSE>  0.550397694     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76698017     </BIAS>
+ <RMSE>  0.668158531     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.851785839     </MEAN_OBS>
+ <STDV_OBS>   1.82616866     </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.890396655     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.38291228     </BIAS>
+ <RMSE>  0.740925074     </RMSE>
+ <CORR>   4.72407760E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29094899     </BIAS>
+ <RMSE>  0.723284185     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.812499940     </MEAN_OBS>
+ <STDV_OBS>   1.91729784     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.917654812     </MEAN>
+ <STDV>   4.72435467E+26 </STDV>
+ <BIAS>  0.907028139     </BIAS>
+ <RMSE>  0.842717290     </RMSE>
+ <CORR>  -15437475.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22028911     </BIAS>
+ <RMSE>  0.771778882     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.05178571     </MEAN_OBS>
+ <STDV_OBS>   2.82274151     </STDV_OBS>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.75174677     </MEAN>
+ <STDV>   4.72407760E+26 </STDV>
+ <BIAS>   2.07811046     </BIAS>
+ <RMSE>  0.827121317     </RMSE>
+ <CORR>   4.86973494E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.34783173     </BIAS>
+ <RMSE>  0.767862856     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.37499976     </MEAN_OBS>
+ <STDV_OBS>   3.91904235     </STDV_OBS>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.49162221     </MEAN>
+ <STDV>  -15437475.0     </STDV>
+ <BIAS>   2.81511378     </BIAS>
+ <RMSE>  0.765531421     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82122207     </BIAS>
+ <RMSE>  0.772342324     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.76607203     </MEAN_OBS>
+ <STDV_OBS>   3.27677011     </STDV_OBS>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.75545192     </MEAN>
+ <STDV>   4.86973494E+26 </STDV>
+ <BIAS>   2.53381824     </BIAS>
+ <RMSE>  0.723716497     </RMSE>
+ <CORR>  -14779298.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.79366970     </BIAS>
+ <RMSE>  0.676218987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.78035700     </MEAN_OBS>
+ <STDV_OBS>   2.77466297     </STDV_OBS>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.70088875     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   1.89084435     </BIAS>
+ <RMSE>  0.743702531     </RMSE>
+ <CORR>  -14779725.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.05118704     </BIAS>
+ <RMSE>  0.716177702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.25714278     </MEAN_OBS>
+ <STDV_OBS>   2.73045778     </STDV_OBS>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.69413710     </MEAN>
+ <STDV>  -14779298.0     </STDV>
+ <BIAS>   1.97204995     </BIAS>
+ <RMSE>  0.693989575     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.98671329     </BIAS>
+ <RMSE>  0.690102696     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.43214297     </MEAN_OBS>
+ <STDV_OBS>   3.66843581     </STDV_OBS>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.95805693     </MEAN>
+ <STDV>  -14779725.0     </STDV>
+ <BIAS>   1.55228412     </BIAS>
+ <RMSE>  0.908016205     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.76975906     </BIAS>
+ <RMSE>  0.893938184     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26785707     </MEAN_OBS>
+ <STDV_OBS>   2.93383479     </STDV_OBS>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.56400442     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   1.23042572     </BIAS>
+ <RMSE>  0.878827751     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64444959     </BIAS>
+ <RMSE>  0.826657534     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59285700     </MEAN_OBS>
+ <STDV_OBS>   2.87161064     </STDV_OBS>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.55542612     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   2.61462450     </BIAS>
+ <RMSE>  0.670304775     </RMSE>
+ <CORR>   4.72435467E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22460413     </BIAS>
+ <RMSE>  0.748399794     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.987500012     </MEAN_OBS>
+ <STDV_OBS>   2.48619962     </STDV_OBS>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.36424851     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.08446622     </BIAS>
+ <RMSE>  0.873733401     </RMSE>
+ <CORR>   4.72407760E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57000816     </BIAS>
+ <RMSE>  0.774929821     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.771428645     </MEAN_OBS>
+ <STDV_OBS>   2.26394868     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.05157137     </MEAN>
+ <STDV>   4.72435467E+26 </STDV>
+ <BIAS>   1.27606833     </BIAS>
+ <RMSE>  0.817145467     </RMSE>
+ <CORR>  -15437475.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43676770     </BIAS>
+ <RMSE>  0.770602942     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.79444444     </MEAN_OBS>
+ <STDV_OBS>   2.83945823     </STDV_OBS>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   1.89644599     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   2.72088504     </BIAS>
+ <RMSE>  0.532355487     </RMSE>
+ <CORR>   4.86973494E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39429307     </BIAS>
+ <RMSE>  0.658827722     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36428595     </MEAN_OBS>
+ <STDV_OBS>   3.95834732     </STDV_OBS>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.24779415     </MEAN>
+ <STDV>  -15437475.0     </STDV>
+ <BIAS>   3.10283446     </BIAS>
+ <RMSE>  0.584449530     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.73058414     </BIAS>
+ <RMSE>  0.741178989     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.76964283     </MEAN_OBS>
+ <STDV_OBS>   2.99380159     </STDV_OBS>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.96667612     </MEAN>
+ <STDV>   4.86973494E+26 </STDV>
+ <BIAS>   2.60050654     </BIAS>
+ <RMSE>  0.635050774     </RMSE>
+ <CORR>  -14779298.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.51965737     </BIAS>
+ <RMSE>  0.613764048     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.82678568     </MEAN_OBS>
+ <STDV_OBS>   2.77948570     </STDV_OBS>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.55069482     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   2.48357892     </BIAS>
+ <RMSE>  0.728693485     </RMSE>
+ <CORR>  -14779725.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25974035     </BIAS>
+ <RMSE>  0.779269278     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.48392856     </MEAN_OBS>
+ <STDV_OBS>   2.44383121     </STDV_OBS>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.30971467     </MEAN>
+ <STDV>  -14779298.0     </STDV>
+ <BIAS>   2.14159322     </BIAS>
+ <RMSE>  0.684078038     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06508875     </BIAS>
+ <RMSE>  0.719211817     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.11785722     </MEAN_OBS>
+ <STDV_OBS>   1.63478756     </STDV_OBS>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.946600497     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.73908770     </BIAS>
+ <RMSE>  0.786801636     </RMSE>
+ <CORR>   4.34227427E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.18894553     </BIAS>
+ <RMSE>  0.631995857     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29107153     </MEAN_OBS>
+ <STDV_OBS>   2.33944845     </STDV_OBS>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.28180671     </MEAN>
+ <STDV>   4.72435467E+26 </STDV>
+ <BIAS>   1.22837341     </BIAS>
+ <RMSE>  0.899497330     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78634298     </BIAS>
+ <RMSE>  0.761485994     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00357139     </MEAN_OBS>
+ <STDV_OBS>   2.18983030     </STDV_OBS>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.01568079     </MEAN>
+ <STDV>   4.34227427E+26 </STDV>
+ <BIAS>   1.41792297     </BIAS>
+ <RMSE>  0.811576188     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65812147     </BIAS>
+ <RMSE>  0.740168452     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.898214340     </MEAN_OBS>
+ <STDV_OBS>   2.10453486     </STDV_OBS>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.09572446     </MEAN>
+ <STDV>  -15437475.0     </STDV>
+ <BIAS>   1.24220347     </BIAS>
+ <RMSE>  0.815284431     </RMSE>
+ <CORR>   4.72251885E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.46072114     </BIAS>
+ <RMSE>  0.736458242     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.657142997     </MEAN_OBS>
+ <STDV_OBS>   2.49612999     </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.17057967     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   1.33794987     </BIAS>
+ <RMSE>  0.683094442     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82678568     </BIAS>
+ <RMSE>  0.681627572     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.510714293     </MEAN_OBS>
+ <STDV_OBS>   2.15704417     </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.03741908     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   1.84003973     </BIAS>
+ <RMSE>  0.394774109     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96957231     </BIAS>
+ <RMSE>  0.437489450     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.04859829     </MEAN_OBS>
+ <STDV_OBS>   2.84862971     </STDV_OBS>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   2.08672190     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   2.38296628     </BIAS>
+ <RMSE>  0.664299428     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         107 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37480116     </BIAS>
+ <RMSE>  0.651732087     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.69464254     </MEAN_OBS>
+ <STDV_OBS>   3.82375455     </STDV_OBS>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   3.08810830     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   3.20486307     </BIAS>
+ <RMSE>  0.650870144     </RMSE>
+ <CORR>  -14779298.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.32801676     </BIAS>
+ <RMSE>  0.652759075     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.18035722     </MEAN_OBS>
+ <STDV_OBS>   3.32723117     </STDV_OBS>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.91267455     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   3.02415228     </BIAS>
+ <RMSE>  0.725502789     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.10767889     </BIAS>
+ <RMSE>  0.701820731     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26607168     </MEAN_OBS>
+ <STDV_OBS>   2.44427562     </STDV_OBS>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.27970827     </MEAN>
+ <STDV>  -14779298.0     </STDV>
+ <BIAS>   2.22794986     </BIAS>
+ <RMSE>  0.605653048     </RMSE>
+ <CORR>   4.72435467E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25360870     </BIAS>
+ <RMSE>  0.628054917     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.20535696     </MEAN_OBS>
+ <STDV_OBS>   1.75386071     </STDV_OBS>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.855646551     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   2.31051993     </BIAS>
+ <RMSE>  0.601300895     </RMSE>
+ <CORR>   4.34227427E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.17975211     </BIAS>
+ <RMSE>  0.639211059     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.11249983     </MEAN_OBS>
+ <STDV_OBS>   1.82840574     </STDV_OBS>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.879166245     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   2.02004600     </BIAS>
+ <RMSE>  0.668349981     </RMSE>
+ <CORR>  -15437475.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.13482833     </BIAS>
+ <RMSE>  0.589441180     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.07500005     </MEAN_OBS>
+ <STDV_OBS>   2.18329883     </STDV_OBS>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.976179779     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>   1.63190103     </BIAS>
+ <RMSE>  0.740258336     </RMSE>
+ <CORR>   4.72435467E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22855830     </BIAS>
+ <RMSE>  0.524369299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04464281     </MEAN_OBS>
+ <STDV_OBS>   2.59460306     </STDV_OBS>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.17295444     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   1.34663594     </BIAS>
+ <RMSE>  0.883710623     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61431038     </BIAS>
+ <RMSE>  0.798019648     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.01607156     </MEAN_OBS>
+ <STDV_OBS>   2.28451562     </STDV_OBS>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.03674769     </MEAN>
+ <STDV>   4.72410085E+26 </STDV>
+ <BIAS>   1.29149985     </BIAS>
+ <RMSE>  0.891692162     </RMSE>
+ <CORR>  -15437475.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41831362     </BIAS>
+ <RMSE>  0.811074197     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.24821413     </MEAN_OBS>
+ <STDV_OBS>   2.84289694     </STDV_OBS>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.59165680     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.75462079     </BIAS>
+ <RMSE>  0.733067393     </RMSE>
+ <CORR>   4.72435467E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.14636183     </BIAS>
+ <RMSE>  0.685865104     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.828571439     </MEAN_OBS>
+ <STDV_OBS>   2.08772016     </STDV_OBS>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.995543242     </MEAN>
+ <STDV>  -15437475.0     </STDV>
+ <BIAS>   1.32144725     </BIAS>
+ <RMSE>  0.732706249     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61628032     </BIAS>
+ <RMSE>  0.674426436     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.942857265     </MEAN_OBS>
+ <STDV_OBS>   2.06971478     </STDV_OBS>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.967460275     </MEAN>
+ <STDV>   4.72436648E+26 </STDV>
+ <BIAS>   1.38200712     </BIAS>
+ <RMSE>  0.811200023     </RMSE>
+ <CORR>  -14779566.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70404017     </BIAS>
+ <RMSE>  0.707607687     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.928571403     </MEAN_OBS>
+ <STDV_OBS>   2.51887202     </STDV_OBS>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.33053184     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   1.24540305     </BIAS>
+ <RMSE>  0.805606365     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72660518     </BIAS>
+ <RMSE>  0.730728567     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13214290     </MEAN_OBS>
+ <STDV_OBS>   2.09677243     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.18443513     </MEAN>
+ <STDV>  -14779725.0     </STDV>
+ <BIAS>   2.06815982     </BIAS>
+ <RMSE>  0.669723392     </RMSE>
+ <CORR>   4.72298703E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97890043     </BIAS>
+ <RMSE>  0.647134781     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04107141     </MEAN_OBS>
+ <STDV_OBS>   2.61040831     </STDV_OBS>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.51942015     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   1.85999024     </BIAS>
+ <RMSE>  0.698879600     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06690621     </BIAS>
+ <RMSE>  0.606204629     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86727273     </MEAN_OBS>
+ <STDV_OBS>   2.49318385     </STDV_OBS>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   1.62080896     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>   2.35913515     </BIAS>
+ <RMSE>  0.618255138     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.83514345     </BIAS>
+ <RMSE>  0.754331470     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.93928576     </MEAN_OBS>
+ <STDV_OBS>   2.21154141     </STDV_OBS>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.52213216     </MEAN>
+ <STDV>  -14779533.0     </STDV>
+ <BIAS>   2.46432805     </BIAS>
+ <RMSE>  0.674987316     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.67176795     </BIAS>
+ <RMSE>  0.599807203     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45357108     </MEAN_OBS>
+ <STDV_OBS>   3.39912963     </STDV_OBS>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.40158653     </MEAN>
+ <STDV>   4.72436648E+26 </STDV>
+ <BIAS>   2.67996669     </BIAS>
+ <RMSE>  0.776513934     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.02880573     </BIAS>
+ <RMSE>  0.706702113     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59285665     </MEAN_OBS>
+ <STDV_OBS>   2.35785246     </STDV_OBS>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.38686252     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   2.34874010     </BIAS>
+ <RMSE>  0.644078255     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.42504764     </BIAS>
+ <RMSE>  0.606981993     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29642844     </MEAN_OBS>
+ <STDV_OBS>   3.25876522     </STDV_OBS>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.63863599     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   2.01497245     </BIAS>
+ <RMSE>  0.721580505     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56500375     </BIAS>
+ <RMSE>  0.900918484     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.923214316     </MEAN_OBS>
+ <STDV_OBS>   2.27397895     </STDV_OBS>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.05496252     </MEAN>
+ <STDV>   4.86974674E+26 </STDV>
+ <BIAS>   2.06697130     </BIAS>
+ <RMSE>  0.507590294     </RMSE>
+ <CORR>  -14779566.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93896961     </BIAS>
+ <RMSE>  0.635150254     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26249969     </MEAN_OBS>
+ <STDV_OBS>   2.09878182     </STDV_OBS>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.24515891     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   1.76485753     </BIAS>
+ <RMSE>  0.708259881     </RMSE>
+ <CORR>  -15437667.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.20470595     </BIAS>
+ <RMSE>  0.549976885     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.21020377     </MEAN_OBS>
+ <STDV_OBS>   2.17879629     </STDV_OBS>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>          98 </NUM>
+ <MEAN>   1.09756076     </MEAN>
+ <STDV>  -14779566.0     </STDV>
+ <BIAS>   1.78043818     </BIAS>
+ <RMSE>  0.673946023     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>          98 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.25643754     </BIAS>
+ <RMSE>  0.493202984     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.23928583     </MEAN_OBS>
+ <STDV_OBS>   2.35260463     </STDV_OBS>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.61728740     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   1.99945056     </BIAS>
+ <RMSE>  0.671909273     </RMSE>
+ <CORR>   4.72298703E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.84523988     </BIAS>
+ <RMSE>  0.651840091     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.12500000     </MEAN_OBS>
+ <STDV_OBS>   2.74497485     </STDV_OBS>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.60899806     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   2.00540090     </BIAS>
+ <RMSE>  0.673873425     </RMSE>
+ <CORR>  -14779533.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82304931     </BIAS>
+ <RMSE>  0.748067260     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.53928590     </MEAN_OBS>
+ <STDV_OBS>   3.48327637     </STDV_OBS>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.04697943     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>   2.74061036     </BIAS>
+ <RMSE>  0.531676710     </RMSE>
+ <CORR>   4.72436648E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.12087727     </BIAS>
+ <RMSE>  0.525920570     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.30714297     </MEAN_OBS>
+ <STDV_OBS>   3.97203207     </STDV_OBS>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.35893369     </MEAN>
+ <STDV>  -14779533.0     </STDV>
+ <BIAS>   2.76448512     </BIAS>
+ <RMSE>  0.632283926     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.41591644     </BIAS>
+ <RMSE>  0.562894583     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.00277758     </MEAN_OBS>
+ <STDV_OBS>   3.81809258     </STDV_OBS>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   2.35721374     </MEAN>
+ <STDV>   4.72436648E+26 </STDV>
+ <BIAS>   3.32483172     </BIAS>
+ <RMSE>  0.400199950     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         108 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.72774577     </BIAS>
+ <RMSE>  0.415392816     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.82857156     </MEAN_OBS>
+ <STDV_OBS>   3.50413489     </STDV_OBS>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.63560677     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   3.95747805     </BIAS>
+ <RMSE>  0.457571387     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.45916128     </BIAS>
+ <RMSE>  0.561587334     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09821439     </MEAN_OBS>
+ <STDV_OBS>   1.88282096     </STDV_OBS>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.13681686     </MEAN>
+ <STDV>  -14779725.0     </STDV>
+ <BIAS>   2.69310784     </BIAS>
+ <RMSE>  0.450419188     </RMSE>
+ <CORR>  -14779566.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58383060     </BIAS>
+ <RMSE>  0.485181481     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46428561     </MEAN_OBS>
+ <STDV_OBS>   2.56481338     </STDV_OBS>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.37539601     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   3.05732298     </BIAS>
+ <RMSE>  0.487009794     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.75007081     </BIAS>
+ <RMSE>  0.569754481     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.51250005     </MEAN_OBS>
+ <STDV_OBS>   1.99101353     </STDV_OBS>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.992303848     </MEAN>
+ <STDV>  -14779566.0     </STDV>
+ <BIAS>   2.06239319     </BIAS>
+ <RMSE>  0.678428471     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.12726259     </BIAS>
+ <RMSE>  0.654542506     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86041677     </MEAN_OBS>
+ <STDV_OBS>   2.84999561     </STDV_OBS>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   1.54968822     </MEAN>
+ <STDV>   4.86974674E+26 </STDV>
+ <BIAS>   3.39502072     </BIAS>
+ <RMSE>  0.661988854     </RMSE>
+ <CORR>   4.72298703E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>          96 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.58585548     </BIAS>
+ <RMSE>  0.603649437     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59642851     </MEAN_OBS>
+ <STDV_OBS>   2.81273508     </STDV_OBS>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.20784914     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   2.14985871     </BIAS>
+ <RMSE>  0.729920924     </RMSE>
+ <CORR>  -14779533.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39310074     </BIAS>
+ <RMSE>  0.677579999     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86071455     </MEAN_OBS>
+ <STDV_OBS>   2.59153104     </STDV_OBS>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.47422898     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>   3.09740996     </BIAS>
+ <RMSE>  0.671826899     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68109226     </BIAS>
+ <RMSE>  0.785755157     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.16785705     </MEAN_OBS>
+ <STDV_OBS>   2.43283629     </STDV_OBS>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.16331100     </MEAN>
+ <STDV>  -14779533.0     </STDV>
+ <BIAS>   2.33694601     </BIAS>
+ <RMSE>  0.614755273     </RMSE>
+ <CORR>   4.34227390E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64325428     </BIAS>
+ <RMSE>  0.780867338     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29999971     </MEAN_OBS>
+ <STDV_OBS>   2.31249309     </STDV_OBS>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   1.23599327     </MEAN>
+ <STDV>   4.87036656E+26 </STDV>
+ <BIAS>   1.31605625     </BIAS>
+ <RMSE>  0.843392849     </RMSE>
+ <CORR>   4.87037836E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.62533259     </BIAS>
+ <RMSE>  0.766472638     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.957143009     </MEAN_OBS>
+ <STDV_OBS>   2.11175013     </STDV_OBS>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.23872364     </MEAN>
+ <STDV>   4.34227390E+26 </STDV>
+ <BIAS>   1.91195202     </BIAS>
+ <RMSE>  0.536545694     </RMSE>
+ <CORR>  -14779725.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78543758     </BIAS>
+ <RMSE>  0.569456458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.883928597     </MEAN_OBS>
+ <STDV_OBS>   1.45635843     </STDV_OBS>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>  0.828107715     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   1.52468801     </BIAS>
+ <RMSE>  0.592605829     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30628645     </BIAS>
+ <RMSE>  0.618838370     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.60535681     </MEAN_OBS>
+ <STDV_OBS>   2.80040407     </STDV_OBS>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.80715132     </MEAN>
+ <STDV>   4.86974674E+26 </STDV>
+ <BIAS>   2.12625265     </BIAS>
+ <RMSE>  0.678923011     </RMSE>
+ <CORR>   4.72435504E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.03977299     </BIAS>
+ <RMSE>  0.686721385     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09107149     </MEAN_OBS>
+ <STDV_OBS>   1.86042583     </STDV_OBS>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.02149725     </MEAN>
+ <STDV>   4.72411265E+26 </STDV>
+ <BIAS>   2.06097460     </BIAS>
+ <RMSE>  0.457606971     </RMSE>
+ <CORR>  -14779565.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.46471692E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.79985201     </BIAS>
+ <RMSE>  0.555066705     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.64017892     </MEAN_OBS>
+ <STDV_OBS>   2.73260736     </STDV_OBS>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.55453849     </MEAN>
+ <STDV>   4.34227427E+26 </STDV>
+ <BIAS>   2.12182307     </BIAS>
+ <RMSE>  0.719108701     </RMSE>
+ <CORR>   4.72411265E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82883084     </BIAS>
+ <RMSE>  0.785371304     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.40535712     </MEAN_OBS>
+ <STDV_OBS>   2.65883994     </STDV_OBS>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.24966085     </MEAN>
+ <STDV>   4.86974674E+26 </STDV>
+ <BIAS>   1.60227776     </BIAS>
+ <RMSE>  0.850971937     </RMSE>
+ <CORR>   4.34227427E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.52384818     </BIAS>
+ <RMSE>  0.855905116     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.32053566     </MEAN_OBS>
+ <STDV_OBS>   2.09499240     </STDV_OBS>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.36605477     </MEAN>
+ <STDV>   4.72407723E+26 </STDV>
+ <BIAS>   1.66764367     </BIAS>
+ <RMSE>  0.749358833     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21257377     </BIAS>
+ <RMSE>  0.816506684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.53214288     </MEAN_OBS>
+ <STDV_OBS>   3.06853461     </STDV_OBS>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.65078592     </MEAN>
+ <STDV>   4.72298703E+26 </STDV>
+ <BIAS>   2.10251141     </BIAS>
+ <RMSE>  0.741352856     </RMSE>
+ <CORR>   4.72407723E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.31767917     </BIAS>
+ <RMSE>  0.661001205     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.27053547     </MEAN_OBS>
+ <STDV_OBS>   2.20309114     </STDV_OBS>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.27023470     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   2.38961506     </BIAS>
+ <RMSE>  0.563837290     </RMSE>
+ <CORR>  -15437475.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   7.46471692E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01628661     </BIAS>
+ <RMSE>  0.710880160     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.70714295     </MEAN_OBS>
+ <STDV_OBS>   3.88648272     </STDV_OBS>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.27134085     </MEAN>
+ <STDV>  -14779437.0     </STDV>
+ <BIAS>   1.70746958     </BIAS>
+ <RMSE>  0.853917301     </RMSE>
+ <CORR>   4.72410085E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.33394241     </BIAS>
+ <RMSE>  0.799068809     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.82500005     </MEAN_OBS>
+ <STDV_OBS>   3.63168430     </STDV_OBS>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   2.03562236     </MEAN>
+ <STDV>  -15437667.0     </STDV>
+ <BIAS>   2.25243974     </BIAS>
+ <RMSE>  0.772717416     </RMSE>
+ <CORR>   4.72435467E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.87126517     </BIAS>
+ <RMSE>  0.676463127     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.47946393     </MEAN_OBS>
+ <STDV_OBS>   2.73823810     </STDV_OBS>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.61579216     </MEAN>
+ <STDV>   4.72436648E+26 </STDV>
+ <BIAS>   2.22280955     </BIAS>
+ <RMSE>  0.608093858     </RMSE>
+ <CORR>  -14779266.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.17126346     </BIAS>
+ <RMSE>  0.666368186     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.44285715     </MEAN_OBS>
+ <STDV_OBS>   2.59392905     </STDV_OBS>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.52117026     </MEAN>
+ <STDV>   4.72435467E+26 </STDV>
+ <BIAS>   1.61700451     </BIAS>
+ <RMSE>  0.826470435     </RMSE>
+ <CORR>   4.72410121E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36021852     </BIAS>
+ <RMSE>  0.880812645     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29910719     </MEAN_OBS>
+ <STDV_OBS>   2.81351972     </STDV_OBS>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.64415693     </MEAN>
+ <STDV>   4.48791980E+26 </STDV>
+ <BIAS>   2.68440104     </BIAS>
+ <RMSE>  0.436474860     </RMSE>
+ <CORR>   4.87044920E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.88598895     </BIAS>
+ <RMSE>  0.459708750     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.89553618     </MEAN_OBS>
+ <STDV_OBS>   2.99292111     </STDV_OBS>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.98069358     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   1.90583217     </BIAS>
+ <RMSE>  0.735479832     </RMSE>
+ <CORR>  -15437475.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89705122     </BIAS>
+ <RMSE>  0.773438752     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.11249995     </MEAN_OBS>
+ <STDV_OBS>   2.08080006     </STDV_OBS>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.21353376     </MEAN>
+ <STDV>   4.87044920E+26 </STDV>
+ <BIAS>   1.87774730     </BIAS>
+ <RMSE>  0.671638370     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.98063016     </BIAS>
+ <RMSE>  0.596569598     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.33303547     </MEAN_OBS>
+ <STDV_OBS>   2.11925840     </STDV_OBS>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.31680000     </MEAN>
+ <STDV>  -15437315.0     </STDV>
+ <BIAS>   2.02177954     </BIAS>
+ <RMSE>  0.630312264     </RMSE>
+ <CORR>  -14779565.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.93306041     </BIAS>
+ <RMSE>  0.638876021     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.17857158     </MEAN_OBS>
+ <STDV_OBS>   1.98635864     </STDV_OBS>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   1.06556344     </MEAN>
+ <STDV>  -14779725.0     </STDV>
+ <BIAS>   2.03448129     </BIAS>
+ <RMSE>  0.471937269     </RMSE>
+ <CORR>  -14779533.0     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         112 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.94713867     </BIAS>
+ <RMSE>  0.521473169     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.25901937     </MEAN_OBS>
+ <STDV_OBS>   2.53331089     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         510 </NUM>
+ <MEAN>   1.88839555     </MEAN>
+ <STDV>  -14779565.0     </STDV>
+ <BIAS>   2.91915870     </BIAS>
+ <RMSE>  0.474531502     </RMSE>
+ <CORR>   4.72438013E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         510 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.48503065     </BIAS>
+ <RMSE>  0.551730812     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81390977     </MEAN_OBS>
+ <STDV_OBS>   2.64537024     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   1.64242399     </MEAN>
+ <STDV>   4.87037836E+26 </STDV>
+ <BIAS>   2.28744173     </BIAS>
+ <RMSE>  0.638708711     </RMSE>
+ <CORR>   4.72436685E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06254959     </BIAS>
+ <RMSE>  0.697542608     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.82706916     </MEAN_OBS>
+ <STDV_OBS>   2.54495478     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   1.97228980     </MEAN>
+ <STDV>   4.72251885E+26 </STDV>
+ <BIAS>   3.22179651     </BIAS>
+ <RMSE>  0.420187056     </RMSE>
+ <CORR>   4.86974674E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         532 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.26148748     </BIAS>
+ <RMSE>  0.315481335     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.33501101     </MEAN_OBS>
+ <STDV_OBS>   2.84981084     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>OCND2_T</NAME>
+ <NUM>         517 </NUM>
+ <MEAN>   1.99170923     </MEAN>
+ <STDV>   4.87044920E+26 </STDV>
+ <BIAS>   2.50909114     </BIAS>
+ <RMSE>  0.644633234     </RMSE>
+ <CORR>   4.87036656E+26 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>OCND2_F</NAME>
+ <NUM>         517 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.59957051     </BIAS>
+ <RMSE>  0.616400659     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
